@@ -1,0 +1,217 @@
+Article 1
+
+The European Investigation Order and obligation to execute it
+
+1.   A European Investigation Order (EIO) is a judicial decision which has been issued or validated by a judicial authority of a Member State (‘OGthe issuing State’) to have one or several specific investigative measure(s) carried out in another Member State (‘the executing State’) to obtain evidence in accordance with this Directive.
+
+The EIO may also be issued for obtaining evidence that is already in the possession of the competent authorities of the executing State.
+
+2.   Member States shall execute an EIO on the basis of the principle of mutual recognition and in accordance with this Directive.
+
+3.   The issuing of an EIO may be requested by a suspected or accused person, or by a lawyer on his behalf, within the framework of applicable defence rights in conformity with national criminal procedure.
+
+4.   This Directive shall not have the effect of modifying the obligation to respect the fundamental rights and legal principles as enshrined in Article 6 of the TEU, including the rights of defence of persons subject to criminal proceedings, and any obligations incumbent on judicial authorities in this respect shall remain unaffected.
+
+Article 2
+
+Definitions
+
+For the purposes of this Directive the following definitions apply:
+
+(a)
+
+‘issuing State’ means the Member State in which the EIO is issued;
+
+(b)
+
+‘executing State’ means the Member State executing the EIO, in which the investigative measure is to be carried out;
+
+(c)
+
+‘issuing authority’ means:
+
+(i)
+
+a judge, a court, an investigating judge or a public prosecutor competent in the case concerned; or
+
+(ii)
+
+any other competent authority as defined by the issuing State which, in the specific case, is acting in its capacity as an investigating authority in criminal proceedings with competence to order the gathering of evidence in accordance with national law. In addition, before it is transmitted to the executing authority the EIO shall be validated, after examination of its conformity with the conditions for issuing an EIO under this Directive, in particular the conditions set out in Article 6.1, by a judge, court, investigating judge or a public prosecutor in the issuing State. Where the EIO has been validated by a judicial authority, that authority may also be regarded as an issuing authority for the purposes of transmission of the EIO;
+
+(d)
+
+‘executing authority’ means an authority having competence to recognise an EIO and ensure its execution in accordance with this Directive and the procedures applicable in a similar domestic case. Such procedures may require a court authorisation in the executing State where provided by its national law.
+
+Article 3
+
+Scope of the EIO
+
+The EIO shall cover any investigative measure with the exception of the setting up of a joint investigation team and the gathering of evidence within such a team as provided in Article 13 of the Convention on Mutual Assistance in Criminal Matters between the Member States of the European Union (14) (‘the Convention’) and in Council Framework Decision 2002/465/JHA (15), other than for the purposes of applying, respectively, Article 13(8) of the Convention and Article 1(8) of the Framework Decision.
+
+Article 4
+
+Types of proceedings for which the EIO can be issued
+
+An EIO may be issued:
+
+(a)
+
+with respect to criminal proceedings that are brought by, or that may be brought before, a judicial authority in respect of a criminal offence under the national law of the issuing State;
+
+(b)
+
+in proceedings brought by administrative authorities in respect of acts which are punishable under the national law of the issuing State by virtue of being infringements of the rules of law and where the decision may give rise to proceedings before a court having jurisdiction, in particular, in criminal matters;
+
+(c)
+
+in proceedings brought by judicial authorities in respect of acts which are punishable under the national law of the issuing State by virtue of being infringements of the rules of law, and where the decision may give rise to proceedings before a court having jurisdiction, in particular, in criminal matters; and
+
+(d)
+
+in connection with proceedings referred to in points (a), (b), and (c) which relate to offences or infringements for which a legal person may be held liable or punished in the issuing State.
+
+Article 5
+
+Content and form of the EIO
+
+1.   The EIO in the form set out in Annex A shall be completed, signed, and its content certified as accurate and correct by the issuing authority.
+
+The EIO shall, in particular, contain the following information:
+
+(a)
+
+data about the issuing authority and, where applicable, the validating authority;
+
+(b)
+
+the object of and reasons for the EIO;
+
+(c)
+
+the necessary information available on the person(s) concerned;
+
+(d)
+
+a description of the criminal act, which is the subject of the investigation or proceedings, and the applicable provisions of the criminal law of the issuing State;
+
+(e)
+
+a description of the investigative measures(s) requested and the evidence to be obtained.
+
+2.   Each Member State shall indicate the language(s) which, among the official languages of the institutions of the Union and in addition to the official language(s) of the Member State concerned, may be used for completing or translating the EIO when the Member State concerned is the executing State.
+
+3.   The competent authority of the issuing State shall translate the EIO set out in Annex A into an official language of the executing State or any other language indicated by the executing State in accordance with paragraph 2 of this Article.
+
+CHAPTER II
+
+PROCEDURES AND SAFEGUARDS FOR THE ISSUING STATE
+
+Article 6
+
+Conditions for issuing and transmitting an EIO
+
+1.   The issuing authority may only issue an EIO where the following conditions have been met:
+
+(a)
+
+the issuing of the EIO is necessary and proportionate for the purpose of the proceedings referred to in Article 4 taking into account the rights of the suspected or accused person; and
+
+(b)
+
+the investigative measure(s) indicated in the EIO could have been ordered under the same conditions in a similar domestic case.
+
+2.   The conditions referred to in paragraph 1 shall be assessed by the issuing authority in each case.
+
+3.   Where the executing authority has reason to believe that the conditions referred to in paragraph 1 have not been met, it may consult the issuing authority on the importance of executing the EIO. After that consultation the issuing authority may decide to withdraw the EIO.
+
+Article 7
+
+Transmission of the EIO
+
+1.   The EIO completed in accordance with Article 5 shall be transmitted from the issuing authority to the executing authority by any means capable of producing a written record under conditions allowing the executing State to establish authenticity.
+
+2.   Any further official communication shall be made directly between the issuing authority and the executing authority.
+
+3.   Without prejudice to Article 2(d), each Member State may designate a central authority or, where its legal system so provides, more than one central authority, to assist the competent authorities. A Member State may, if necessary due to the organisation of its internal judicial system, make its central authority(ies) responsible for the administrative transmission and receipt of EIOs, as well as for other official correspondence relating to EIOs.
+
+4.   The issuing authority may transmit EIOs via the telecommunications system of the European Judicial Network (EJN), as set up by Council Joint Action. 98/428/JHA (16).
+
+5.   If the identity of the executing authority is unknown, the issuing authority shall make all necessary inquiries, including via the EJN contact points, in order to obtain the information from the executing State.
+
+6.   Where the authority in the executing State which receives the EIO has no competence to recognise the EIO or to take the necessary measures for its execution, it shall, ex officio, transmit the EIO to the executing authority and so inform the issuing authority.
+
+7.   All difficulties concerning the transmission or authenticity of any document needed for the execution of the EIO shall be dealt with by direct contacts between the issuing authority and the executing authority involved or, where appropriate, with the involvement of the central authorities of the Member States.
+
+Article 8
+
+EIO related to an earlier EIO
+
+1.   Where an issuing authority issues an EIO which supplements an earlier EIO, it shall indicate this fact in the EIO in Section D of the form set out in Annex A.
+
+2.   If the issuing authority assists in the execution of the EIO in the executing State, in accordance with Article 9(4), it may, without prejudice to notifications made under Article 33(1)(c), address an EIO which supplements an earlier EIO directly to the executing authority, while present in that State.
+
+3.   The EIO which supplements an earlier EIO shall be certified in accordance with the first subparagraph of Article 5(1), and, where applicable, be validated in accordance with Article 2(c).
+
+CHAPTER III
+
+PROCEDURES AND SAFEGUARDS FOR THE EXECUTING STATE
+
+Article 9
+
+Recognition and execution
+
+1.   The executing authority shall recognise an EIO, transmitted in accordance with this Directive, without any further formality being required, and ensure its execution in the same way and under the same modalities as if the investigative measure concerned had been ordered by an authority of the executing State, unless that authority decides to invoke one of the grounds for non-recognition or non-execution or one of the grounds for postponement provided for in this Directive.
+
+2.   The executing authority shall comply with the formalities and procedures expressly indicated by the issuing authority unless otherwise provided in this Directive and provided that such formalities and procedures are not contrary to the fundamental principles of law of the executing State.
+
+3.   Where an executing authority receives an EIO which has not been issued by an issuing authority as specified in Article 2(c), the executing authority shall return the EIO to the issuing State.
+
+4.   The issuing authority may request that one or more authorities of the issuing State assist in the execution of the EIO in support to the competent authorities of the executing State to the extent that the designated authorities of the issuing State would be able to assist in the execution of the investigative measures indicated in the EIO in a similar domestic case. The executing authority shall comply with this request provided that such assistance is not contrary to the fundamental principles of law of the executing State or does not harm its essential national security interests.
+
+5.   The authorities of the issuing State present in the executing State shall be bound by the law of the executing State during the execution of the EIO. They shall not have any law enforcement powers in the territory of the executing State, unless the execution of such powers in the territory of the executing State is in accordance with the law of the executing State and to the extent agreed between the issuing authority and the executing authority.
+
+6.   The issuing authority and executing authority may consult each other, by any appropriate means, with a view to facilitating the efficient application of this Article.
+
+Article 10
+
+Recourse to a different type of investigative measure
+
+1.   The executing authority shall have, wherever possible, recourse to an investigative measure other than that provided for in the EIO where:
+
+(a)
+
+the investigative measure indicated in the EIO does not exist under the law of the executing State; or
+
+(b)
+
+the investigative measure indicated in the EIO would not be available in a similar domestic case.
+
+2.   Without prejudice to Article 11, paragraph (1) does not apply to the following investigative measures, which always have to be available under the law of the executing State:
+
+(a)
+
+the obtaining of information or evidence which is already in the possession of the executing authority and the information or evidence could have been obtained, in accordance with the law of the executing State, in the framework of criminal proceedings or for the purposes of the EIO;
+
+(b)
+
+the obtaining of information contained in databases held by police or judicial authorities and directly accessible by the executing authority in the framework of criminal proceedings;
+
+(c)
+
+the hearing of a witness, expert, victim, suspected or accused person or third party in the territory of the executing State;
+
+(d)
+
+any non-coercive investigative measure as defined under the law of the executing State;
+
+(e)
+
+the identification of persons holding a subscription of a specified phone number or IP address.
+
+3.   The executing authority may also have recourse to an investigative measure other than that indicated in the EIO where the investigative measure selected by the executing authority would achieve the same result by less intrusive means than the investigative measure indicated in the EIO.
+
+4.   When the executing authority decides to avail itself of the possibility referred to in paragraphs 1 and 3, it shall first inform the issuing authority, which may decide to withdraw or supplement the EIO.
+
+5.   Where, in accordance with paragraph 1, the investigative measure indicated in the EIO does not exist under the law of the executing State or it would not be available in a similar domestic case and where there is no other investigative measure which would have the same result as the investigative measure requested, the executing authority shall notify the issuing authority that it has not been possible to provide the assistance requested.
+
+
